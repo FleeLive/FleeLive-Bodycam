@@ -2,7 +2,7 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'Bay Modifications'
+author 'FleeLive'
 description 'Axon Body Cam Script'
 version '1.0.0'
 
